@@ -1,0 +1,1 @@
+-- PASO 1: DataWarehouse - Crear star schema tables
