@@ -7,3 +7,7 @@
 ---Paso 2: DW - Cargar datos en las tablas de CSV
 
 .read 02_load_schema_dw.sql
+
+---Paso 3: Mart - Crear flat mart
+
+.read 03_create_flat_mart.sql
