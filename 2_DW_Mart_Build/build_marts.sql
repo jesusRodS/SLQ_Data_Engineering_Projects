@@ -11,3 +11,7 @@
 ---Paso 3: Mart - Crear flat mart
 
 .read 03_create_flat_mart.sql
+
+---Paso 4: Create Skills demand mart
+
+.read 04_create_skills_mart.sql
