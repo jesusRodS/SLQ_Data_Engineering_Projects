@@ -24,3 +24,8 @@
 --- Paso 6: Mart - Actualizar priority Mart
 
 .read 06_update_priority_mart.sql
+
+
+--- Paso 7: Mart - Crear Company Mart
+
+.read 07_create_company_mart.sql
